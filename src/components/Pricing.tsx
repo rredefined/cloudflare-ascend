@@ -7,7 +7,7 @@ const Pricing = () => {
     {
       name: "Starter",
       ram: "2GB",
-      price: "₹400",
+      price: "₹39",
       features: [
         "2GB RAM",
         "Unlimited Player Slots",
@@ -19,7 +19,7 @@ const Pricing = () => {
     {
       name: "Basic",
       ram: "4GB",
-      price: "₹800",
+      price: "₹80",
       features: [
         "4GB RAM",
         "Unlimited Player Slots",
@@ -32,7 +32,7 @@ const Pricing = () => {
     {
       name: "Pro",
       ram: "8GB",
-      price: "₹1,600",
+      price: "₹149",
       features: [
         "8GB RAM",
         "Unlimited Player Slots",
@@ -47,7 +47,7 @@ const Pricing = () => {
     {
       name: "Advanced",
       ram: "16GB",
-      price: "₹3,200",
+      price: "₹299",
       features: [
         "16GB RAM",
         "Unlimited Player Slots",
@@ -61,7 +61,7 @@ const Pricing = () => {
     {
       name: "Elite",
       ram: "32GB",
-      price: "₹6,400",
+      price: "₹400",
       features: [
         "32GB RAM",
         "Unlimited Player Slots",
@@ -75,7 +75,7 @@ const Pricing = () => {
     {
       name: "Ultimate",
       ram: "64GB",
-      price: "₹12,800",
+      price: "₹800",
       features: [
         "64GB RAM",
         "Unlimited Player Slots",
@@ -93,8 +93,8 @@ const Pricing = () => {
       name: "Basic VPS",
       cpu: "2 Cores",
       ram: "4GB",
-      storage: "50GB",
-      price: "₹650",
+      storage: "32GB",
+      price: "₹250",
       features: [
         "2 CPU Cores",
         "4GB RAM",
@@ -109,7 +109,7 @@ const Pricing = () => {
       cpu: "4 Cores",
       ram: "8GB",
       storage: "100GB",
-      price: "₹1,300",
+      price: "₹450",
       features: [
         "4 CPU Cores",
         "8GB RAM",
@@ -124,7 +124,7 @@ const Pricing = () => {
       cpu: "6 Cores",
       ram: "16GB",
       storage: "200GB",
-      price: "₹2,600",
+      price: "₹600",
       features: [
         "6 CPU Cores",
         "16GB RAM",
@@ -141,7 +141,7 @@ const Pricing = () => {
       cpu: "8 Cores",
       ram: "32GB",
       storage: "400GB",
-      price: "₹5,200",
+      price: "₹869",
       features: [
         "8 CPU Cores",
         "32GB RAM",
@@ -157,7 +157,7 @@ const Pricing = () => {
       cpu: "12 Cores",
       ram: "64GB",
       storage: "800GB",
-      price: "₹10,400",
+      price: "₹1199",
       features: [
         "12 CPU Cores",
         "64GB RAM",
