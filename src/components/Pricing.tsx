@@ -7,7 +7,7 @@ const Pricing = () => {
     {
       name: "Starter",
       ram: "2GB",
-      price: "₹39",
+      price: "₹49",
       features: [
         "2GB RAM",
         "Unlimited Player Slots",
@@ -19,7 +19,7 @@ const Pricing = () => {
     {
       name: "Basic",
       ram: "4GB",
-      price: "₹80",
+      price: "₹99",
       features: [
         "4GB RAM",
         "Unlimited Player Slots",
@@ -32,7 +32,7 @@ const Pricing = () => {
     {
       name: "Pro",
       ram: "8GB",
-      price: "₹149",
+      price: "₹299",
       features: [
         "8GB RAM",
         "Unlimited Player Slots",
@@ -47,7 +47,7 @@ const Pricing = () => {
     {
       name: "Advanced",
       ram: "16GB",
-      price: "₹299",
+      price: "₹499",
       features: [
         "16GB RAM",
         "Unlimited Player Slots",
@@ -61,7 +61,7 @@ const Pricing = () => {
     {
       name: "Elite",
       ram: "32GB",
-      price: "₹400",
+      price: "₹799",
       features: [
         "32GB RAM",
         "Unlimited Player Slots",
@@ -75,7 +75,7 @@ const Pricing = () => {
     {
       name: "Ultimate",
       ram: "64GB",
-      price: "₹800",
+      price: "₹999",
       features: [
         "64GB RAM",
         "Unlimited Player Slots",
